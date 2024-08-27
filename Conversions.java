@@ -10,7 +10,7 @@ public class Conversions
     public static void main(String[] args)
     {
         Scanner keyboard = new Scanner(System.in);
-        System.out.println("Choose one of the options:");
+        System.out.println("Choose 1 of the options:");
             System.out.println("1. Celsius to Fahrenheit");
             System.out.println("2. Fahrenheit to Celsius");
             System.out.println("3. Feet to Meters");
